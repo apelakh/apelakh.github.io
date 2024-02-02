@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming | Avital Pelakh</title>
+    <link>https://apelakh.github.io/tag/programming/</link>
+      <atom:link href="https://apelakh.github.io/tag/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apelakh.github.io/media/icon_hu7b0463450649f8f34ef722476b09125b_2595_512x512_fill_lanczos_center_3.png</url>
+      <title>Programming</title>
+      <link>https://apelakh.github.io/tag/programming/</link>
+    </image>
+    
+    <item>
+      <title>College ScoreCard Explorer</title>
+      <link>https://apelakh.github.io/project/shiny_app/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://apelakh.github.io/project/shiny_app/</guid>
+      <description>&lt;p&gt;This app allows you to extensively explore a large data set containing information about institutions of higher learning in the U.S. and outlying areas, spanning nearly a quarter century.&lt;/p&gt;
+&lt;p&gt;About the Data
+With this interface, you will have access to the institution-level data files for all academic years from 2011-12 through 2020-21 (data from 1996-97 to 2010-11 are not included to space limitations). The data are available for download from the U.S. Department of Education. Visit their website for more information or to download the files yourself: &lt;a href=&#34;https://collegescorecard.ed.gov/data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://collegescorecard.ed.gov/data/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interpreting Experiments</title>
+      <link>https://apelakh.github.io/project/interpreting_experiments/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://apelakh.github.io/project/interpreting_experiments/</guid>
+      <description>&lt;p&gt;This interactive lesson was designed as part of a self-directed final project for E-Learning Design Principles and Methods, a graduate-level course taken during Fall 2023 at Carnegie Melon University with Dr. Ken Koedinger.&lt;/p&gt;
+&lt;p&gt;The activity was designed using the Qualtrics survey platform using custom-written HTML, CSS, and JavaScript. Click here to preview the lesson and provide some feedback!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

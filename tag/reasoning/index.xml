@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reasoning | Avital Pelakh</title>
+    <link>https://apelakh.github.io/tag/reasoning/</link>
+      <atom:link href="https://apelakh.github.io/tag/reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reasoning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apelakh.github.io/media/icon_hu7b0463450649f8f34ef722476b09125b_2595_512x512_fill_lanczos_center_3.png</url>
+      <title>Reasoning</title>
+      <link>https://apelakh.github.io/tag/reasoning/</link>
+    </image>
+    
+    <item>
+      <title>A hypothetico-deductive theory of science and learning</title>
+      <link>https://apelakh.github.io/publication/hd_reasoning/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://apelakh.github.io/publication/hd_reasoning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

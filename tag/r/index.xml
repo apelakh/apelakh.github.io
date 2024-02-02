@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Avital Pelakh</title>
+    <link>https://apelakh.github.io/tag/r/</link>
+      <atom:link href="https://apelakh.github.io/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apelakh.github.io/media/icon_hu7b0463450649f8f34ef722476b09125b_2595_512x512_fill_lanczos_center_3.png</url>
+      <title>R</title>
+      <link>https://apelakh.github.io/tag/r/</link>
+    </image>
+    
+    <item>
+      <title>College ScoreCard Explorer</title>
+      <link>https://apelakh.github.io/project/shiny_app/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://apelakh.github.io/project/shiny_app/</guid>
+      <description>&lt;p&gt;This app allows you to extensively explore a large data set containing information about institutions of higher learning in the U.S. and outlying areas, spanning nearly a quarter century.&lt;/p&gt;
+&lt;p&gt;About the Data
+With this interface, you will have access to the institution-level data files for all academic years from 2011-12 through 2020-21 (data from 1996-97 to 2010-11 are not included to space limitations). The data are available for download from the U.S. Department of Education. Visit their website for more information or to download the files yourself: &lt;a href=&#34;https://collegescorecard.ed.gov/data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://collegescorecard.ed.gov/data/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://apelakh.github.io/</link>
       <atom:link href="https://apelakh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Avital Pelakh</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://apelakh.github.io/media/icon_hu7b0463450649f8f34ef722476b09125b_2595_512x512_fill_lanczos_center_3.png</url>
       <title>Avital Pelakh</title>
@@ -33,12 +33,32 @@
     </item>
     
     <item>
-      <title>Example Project</title>
+      <title>College ScoreCard Explorer</title>
       <link>https://apelakh.github.io/project/shiny_app/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://apelakh.github.io/project/shiny_app/</guid>
-      <description>&lt;p&gt;This is&lt;/p&gt;
+      <description>&lt;p&gt;This app allows you to extensively explore a large data set containing information about institutions of higher learning in the U.S. and outlying areas, spanning nearly a quarter century.&lt;/p&gt;
+&lt;p&gt;About the Data
+With this interface, you will have access to the institution-level data files for all academic years from 2011-12 through 2020-21 (data from 1996-97 to 2010-11 are not included to space limitations). The data are available for download from the U.S. Department of Education. Visit their website for more information or to download the files yourself: &lt;a href=&#34;https://collegescorecard.ed.gov/data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://collegescorecard.ed.gov/data/&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Interpreting Experiments</title>
+      <link>https://apelakh.github.io/project/interpreting_experiments/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://apelakh.github.io/project/interpreting_experiments/</guid>
+      <description>&lt;p&gt;This interactive lesson was designed as part of a self-directed final project for E-Learning Design Principles and Methods, a graduate-level course taken during Fall 2023 at Carnegie Melon University with Dr. Ken Koedinger.&lt;/p&gt;
+&lt;p&gt;The activity was designed using the Qualtrics survey platform using custom-written HTML, CSS, and JavaScript. Click here to preview the lesson and provide some feedback!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A hypothetico-deductive theory of science and learning</title>
+      <link>https://apelakh.github.io/publication/hd_reasoning/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://apelakh.github.io/publication/hd_reasoning/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -266,7 +286,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-428697531&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-137492586&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -276,7 +296,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-428697531&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-137492586&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -557,20 +577,6 @@ Crash --&gt; [*]
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://apelakh.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://apelakh.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>https://apelakh.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -751,44 +757,6 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://apelakh.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://apelakh.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://apelakh.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://apelakh.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

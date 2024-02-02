@@ -13,11 +13,13 @@
     </image>
     
     <item>
-      <title>Example Project</title>
+      <title>College ScoreCard Explorer</title>
       <link>https://apelakh.github.io/project/shiny_app/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://apelakh.github.io/project/shiny_app/</guid>
-      <description>&lt;p&gt;This is&lt;/p&gt;
+      <description>&lt;p&gt;This app allows you to extensively explore a large data set containing information about institutions of higher learning in the U.S. and outlying areas, spanning nearly a quarter century.&lt;/p&gt;
+&lt;p&gt;About the Data
+With this interface, you will have access to the institution-level data files for all academic years from 2011-12 through 2020-21 (data from 1996-97 to 2010-11 are not included to space limitations). The data are available for download from the U.S. Department of Education. Visit their website for more information or to download the files yourself: &lt;a href=&#34;https://collegescorecard.ed.gov/data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://collegescorecard.ed.gov/data/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

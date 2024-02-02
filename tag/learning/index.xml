@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning | Avital Pelakh</title>
+    <link>https://apelakh.github.io/tag/learning/</link>
+      <atom:link href="https://apelakh.github.io/tag/learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apelakh.github.io/media/icon_hu7b0463450649f8f34ef722476b09125b_2595_512x512_fill_lanczos_center_3.png</url>
+      <title>Learning</title>
+      <link>https://apelakh.github.io/tag/learning/</link>
+    </image>
+    
+    <item>
+      <title>Interpreting Experiments</title>
+      <link>https://apelakh.github.io/project/interpreting_experiments/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://apelakh.github.io/project/interpreting_experiments/</guid>
+      <description>&lt;p&gt;This interactive lesson was designed as part of a self-directed final project for E-Learning Design Principles and Methods, a graduate-level course taken during Fall 2023 at Carnegie Melon University with Dr. Ken Koedinger.&lt;/p&gt;
+&lt;p&gt;The activity was designed using the Qualtrics survey platform using custom-written HTML, CSS, and JavaScript. Click here to preview the lesson and provide some feedback!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A hypothetico-deductive theory of science and learning</title>
+      <link>https://apelakh.github.io/publication/hd_reasoning/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://apelakh.github.io/publication/hd_reasoning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

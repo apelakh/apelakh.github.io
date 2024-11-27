@@ -1,0 +1,42 @@
+/* css styles */
+
+h3 {
+  font-weight: 500;
+  font-size: 1.1em;
+}
+
+h4 {
+  font-size: 1em;
+  margin-top: .2em;
+}
+
+strong {
+  font-weight: 500;
+  opacity: .9em;
+}
+
+.indent {
+  margin-left: 1.2em;
+}
+
+ul {
+  padding-left: 1em;
+}
+
+.about_section {
+  border-left-style: solid;
+  border-left-width: .5em;
+  border-color: #e8e8e6;
+  padding-left: 1em;
+  
+}
+
+.about_section p {
+  margin-bottom: .2rem;
+}
+
+.about_section ul {
+  margin-top: 0rem;
+  margin-bottom: .2rem;;
+}
+

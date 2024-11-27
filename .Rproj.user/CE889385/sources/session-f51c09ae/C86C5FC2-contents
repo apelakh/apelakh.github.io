@@ -1,0 +1,93 @@
+---
+title: "About Me"
+---
+
+## Skills
+
+(\*\*advanced, \*proficient)
+
+
+::::: grid
+::: g-col-6
+### Programming Languages and Tools
+
+-   R and R Studio\*\*
+-   Python\*
+-   Qualtrics\*\*
+-   HTML/CSS\*
+-   Databases/SQL\*
+-   JavaScript\*
+-   GitHub\*
+-   SPSS\*
+-   NVivo\*
+:::
+
+::: g-col-6
+### Methodology
+
+-   Experimental design; AB Testing
+-   Survey design
+-   Data cleaning; manipulation
+-   Data visualization; dashboards
+-   Statistical modeling
+-   Machine learning techniques
+-   Causal inference; hypothesis testing
+:::
+:::::
+
+
+## Experience
+
+:::: about_section
+### Graduate Student Researcher, Learning Research and Development Center (2020 - Present)
+
+#### University of Pittsburgh
+
+::: indent
+**Experimental Study:** Mindfulness Training to Increase Learning and Engagement in Introductory Physics ([Project overview on OSF]())
+
+**Data:** observational survey data from \~3000 students; Repeated-measures experimental data from \~450 students; Qualitative focus group interviews from 24 students
+
+**Responsibilities**
+
+-   Data collection and management (participant interaction, quality assurance, organization, reporting)
+-   Design implementation (experimental stimuli, online surveys, logic and randomization, programming)
+-   Data analysis (coding, psychometrics, generalized linear modeling, mixed effects modeling, visualization)
+-   Mentoring and team management
+
+**Key contributions:**
+
+-   Redesigned data collection procedures and survey design to increase accuracy and efficiency
+-   Wrote custom code expand range of behavioral measures collected
+:::
+::::
+
+:::: about_section
+### Independent Research Contractor, Macmillan Learning (2023-2024)
+
+::: indent
+**Responsibilities:** Conducted in-person and virtual qualitative classroom observations
+:::
+::::
+
+## Education
+
+::: about_section
+
+### PhD, University of Pittsburgh, Cognitive Psychology (Expected 2026)
+#### Minor in Quantitative Methodology
+
+:::
+
+::: about_section
+
+### MS, University of Pittsburgh, Cognitive Psychology (2023)
+
+:::
+
+::: about_section
+
+### BS, Montana State University, Psychology (2020)
+
+:::
+

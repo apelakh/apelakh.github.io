@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+  preview: 
+    browser: true
+    port: 4000
+
+website:
+  title: "Avital Pelakh"
+  description: "A personal website for Avital Pelakh"
+  image: img/2024_Portrait_square.jpg
+  image-alt: "Avital Pelakh"
+  favicon: img/icon.png
+  twitter-card: true
+  page-footer: <i class="bi bi-c-circle"></i> Avital Pelakh 2024 | Contact me at [apelakh@gmail.com](https://mailto:apelakh@gmail.com)
+  navbar:
+    pinned: true
+    right:
+      - icon: house
+        href: index.qmd
+        text: Home
+      - icon: person-lines-fill
+        href: about.qmd
+      - icon: boxes
+        text: Projects
+        href: projects
+
+format:
+  html:
+    theme: sandstone
+    linkcolor: indianred
+    css: styles.css
+    smooth-scroll: true
+    toc: true
+    toc-depth: 2
+    link-external-icon: true
+    link-external-newwindow: true
+
+editor: visual
+

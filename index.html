@@ -140,11 +140,11 @@ ul.task-list li input[type="checkbox"] {
     <i class="bi bi-envelope"></i>
      <span class="about-link-text">E-mail</span>
   </a>
-  <a href="/Pelakh_Avital_Resume.pdf" class="about-link" rel="" target="_blank">
+  <a href="/files/Pelakh_Avital_Resume.pdf" class="about-link" rel="" target="_blank">
     <i class="bi bi-download"></i>
      <span class="about-link-text">Resume</span>
   </a>
-  <a href="/Pelakh_Avital_CV.pdf" class="about-link" rel="" target="_blank">
+  <a href="/files/Pelakh_Avital_CV.pdf" class="about-link" rel="" target="_blank">
     <i class="bi bi-download"></i>
      <span class="about-link-text">CV</span>
   </a>
@@ -270,8 +270,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
           if (link.getAttribute("rel") === null) {
             link.setAttribute("rel", "noopener");
           }
-          // default icon
-          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

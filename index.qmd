@@ -9,16 +9,18 @@ about:
     - icon: envelope
       text: E-mail
       href: mailto:apelakh@gmail.com
+      target: _blank
     - icon: download
       text: Resume
-      href: 'Pelakh_Avital_Resume.pdf'
+      href: 'files/Pelakh_Avital_Resume.pdf'
       target: _blank
     - icon: download
       text: CV
-      href: 'Pelakh_Avital_CV.pdf'
+      href: 'files/Pelakh_Avital_CV.pdf'
       target: _blank
     - icon: linkedin
       text: LinkedIn
+      target: _blank
       href: 'https://www.linkedin.com/in/avital-pelakh-a68069168/'
 ---
 

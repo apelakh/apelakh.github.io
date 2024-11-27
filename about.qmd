@@ -3,14 +3,11 @@ title: "About Me"
 ---
 
 ## Skills
-
 (\*\*advanced, \*proficient)
-
 
 ::::: grid
 ::: g-col-6
 ### Programming Languages and Tools
-
 -   R and R Studio\*\*
 -   Python\*
 -   Qualtrics\*\*
@@ -24,7 +21,6 @@ title: "About Me"
 
 ::: g-col-6
 ### Methodology
-
 -   Experimental design; AB Testing
 -   Survey design
 -   Data cleaning; manipulation

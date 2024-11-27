@@ -1,6 +1,8 @@
 project:
   type: website
-  output-dir: docs
+  resources: 
+    - files/Pelakh_Avital_CV.pdf
+    - files/Pelakh_Avital_Resume.pdf
   preview: 
     browser: true
     port: 4000
@@ -33,7 +35,7 @@ format:
     smooth-scroll: true
     toc: true
     toc-depth: 2
-    link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
 
 editor: visual

@@ -3,6 +3,7 @@ project:
   resources: 
     - files/Pelakh_Avital_CV.pdf
     - files/Pelakh_Avital_Resume.pdf
+    - google7e007262b1cf74ea.html
   preview: 
     browser: true
     port: 4000

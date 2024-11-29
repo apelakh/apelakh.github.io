@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "(**advanced, *proficient)\n\n\n\n\nR and R Studio**\nPython*\nQualtrics**\nHTML/CSS*\nDatabases/SQL*\nJavaScript*\nGitHub*\nSPSS*\nNVivo*\n\n\n\n\n\nExperimental design; AB Testing\nSurvey design\nData cleaning; manipulation\nData visualization; dashboards\nStatistical modeling\nMachine learning techniques\nCausal inference; hypothesis testing"
+    "text": "I am an experimental researcher with training in cognitive science and advanced quantitative analysis. I have experience working with multidisciplinary teams and communicating complex findings to technical and non-technical audiences.\nResearch areas/Expertise: learning; reasoning; problem solving; motivation\nFeel free to view/download my academic CV or resume, or email me at apelakh@gmail.com to learn more."
   },
   {
     "objectID": "about.html#skills",
     "href": "about.html#skills",
     "title": "About Me",
-    "section": "",
-    "text": "(**advanced, *proficient)\n\n\n\n\nR and R Studio**\nPython*\nQualtrics**\nHTML/CSS*\nDatabases/SQL*\nJavaScript*\nGitHub*\nSPSS*\nNVivo*\n\n\n\n\n\nExperimental design; AB Testing\nSurvey design\nData cleaning; manipulation\nData visualization; dashboards\nStatistical modeling\nMachine learning techniques\nCausal inference; hypothesis testing"
+    "section": "Skills",
+    "text": "Skills\n(**advanced, *proficient)\n\n\nProgramming Languages and Tools\n\nR and R Studio**\nPython*\nQualtrics**\nHTML/CSS*\nDatabases/SQL*\nJavaScript*\nGitHub*\nSPSS*\nNVivo*\n\n\n\nMethodology\n\nExperimental design; AB Testing\nSurvey design\nData cleaning; manipulation\nData visualization; dashboards\nStatistical modeling\nMachine learning techniques\nCausal inference; hypothesis testing"
   },
   {
     "objectID": "about.html#experience",

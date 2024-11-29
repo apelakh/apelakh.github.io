@@ -3,7 +3,7 @@
     "path": "~/Library/CloudStorage/OneDrive-UniversityofPittsburgh/Websites/personal_site_quarto/styles.css",
     "project_path": "styles.css",
     "type": "css",
-    "hash": "2585391640",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1732676684317.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,18",
+        "cursorPosition": "30,9",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1732736617,
+    "lastKnownWriteTime": 1732818748,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1732736617918,
+    "last_content_update": 1732818748639,
     "read_only": false,
     "read_only_alternatives": []
 }

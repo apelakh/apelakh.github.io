@@ -3,7 +3,7 @@
     "path": "~/Library/CloudStorage/OneDrive-UniversityofPittsburgh/Websites/personal_site_quarto/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2031024566",
     "contents": "",
     "dirty": false,
     "created": 1732675106796.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "1616:0",
-        "cursorPosition": "4,20",
-        "scrollLine": "0"
+        "cursorPosition": "31,199",
+        "scrollLine": "12"
     },
     "folds": "",
-    "lastKnownWriteTime": 1732736065,
+    "lastKnownWriteTime": 1732848993,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1732736065988,
+    "last_content_update": 1732848993904,
     "read_only": false,
     "read_only_alternatives": []
 }

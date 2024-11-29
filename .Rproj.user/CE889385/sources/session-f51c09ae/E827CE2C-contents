@@ -4,6 +4,15 @@ a:hover {
   color: firebrick;
 }
 
+.sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
+    border-left: 1px solid indianred;
+    color: indianred !important;
+}
+
+.sidebar nav[role=doc-toc] ul>li>a:hover, .sidebar nav[role=doc-toc] ul>li>ul>li>a:hover {
+    color: indianred !important;
+}
+
 h3 {
   font-weight: 500;
   font-size: 1.1em;

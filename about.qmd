@@ -2,6 +2,12 @@
 title: "About Me"
 ---
 
+I am an experimental researcher with training in cognitive science and advanced quantitative analysis. I have experience working with multidisciplinary teams and communicating complex findings to technical and non-technical audiences.
+
+Research areas/Expertise: learning; reasoning; problem solving; motivation
+
+Feel free to view/download my [academic CV](files/Pelakh_Avital_CV.pdf) or [resume](files/Pelakh_Avital_resume.pdf), or email me at <apelakh@gmail.com> to learn more.
+
 ## Skills
 (\*\*advanced, \*proficient)
 

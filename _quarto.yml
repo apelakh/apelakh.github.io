@@ -11,11 +11,15 @@ project:
 website:
   title: "Avital Pelakh"
   description: "A personal website for Avital Pelakh"
+  site-url: "https://apelakh.github.io/"
+  open-graph: true
   image: img/2024_Portrait_square.jpg
   image-alt: "Avital Pelakh"
   favicon: img/icon.png
   twitter-card: true
-  page-footer: <i class="bi bi-c-circle"></i> Avital Pelakh 2024 | Contact me at [apelakh@gmail.com](https://mailto:apelakh@gmail.com)
+  page-footer: |
+    This site was created using Quarto in RStudio | View the source code on [GitHub](https://github.com/apelakh/apelakh.github.io)<br>
+    <i class="bi bi-c-circle"></i> Avital Pelakh 2024 | Contact me at <apelakh@gmail.com>
   navbar:
     pinned: true
     right:
@@ -39,5 +43,5 @@ format:
     link-external-icon: false
     link-external-newwindow: true
 
-editor: visual
+editor: source
 

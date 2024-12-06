@@ -6,4 +6,4 @@ I am a PhD student at the University of Pittsburgh studying Cognitive Psychology
 
 I'm actively looking for work related to data science, UX research, policy/public opinion research, and educational technologies.
 
-Please check out the website [here](https://apelakh.github.io/) or contact me at [apelakh\@gmail.com](mailto:apelakh@gmail.com){.email}
+Please check out the website [here](https://apelakh.github.io/) or contact me at [apelakh\@gmail.com](mailto:apelakh@gmail.com)

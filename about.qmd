@@ -6,14 +6,16 @@ I am an experimental researcher with training in cognitive science and advanced 
 
 Research areas/Expertise: learning; reasoning; problem solving; motivation
 
-Feel free to view/download my [academic CV](files/Pelakh_CV.pdf) or [resume](files/Pelakh_Resume.pdf), or email me at <apelakh@gmail.com> to learn more.
+Feel free to view/download my [academic CV](files/Pelakh_CV.pdf) or [resume](files/Pelakh_Resume.pdf), or email me at [apelakh\@gmail.com](mailto:apelakh@gmail.com){.email} to learn more.
 
 ## Skills
+
 (\*\*advanced, \*proficient)
 
 ::::: grid
 ::: g-col-6
 ### Programming Languages and Tools
+
 -   R and R Studio\*\*
 -   Python\*
 -   Qualtrics\*\*
@@ -27,6 +29,7 @@ Feel free to view/download my [academic CV](files/Pelakh_CV.pdf) or [resume](fil
 
 ::: g-col-6
 ### Methodology
+
 -   Experimental design; AB Testing
 -   Survey design
 -   Data cleaning; manipulation
@@ -37,7 +40,6 @@ Feel free to view/download my [academic CV](files/Pelakh_CV.pdf) or [resume](fil
 :::
 :::::
 
-
 ## Experience
 
 :::: about_section
@@ -46,7 +48,7 @@ Feel free to view/download my [academic CV](files/Pelakh_CV.pdf) or [resume](fil
 #### University of Pittsburgh
 
 ::: indent
-**Experimental Study:** Mindfulness Training to Increase Learning and Engagement in Introductory Physics ([Project overview on OSF]())
+**Experimental Study:** Mindfulness Training to Increase Learning and Engagement in Introductory Physics ([Project overview on OSF](https://osf.io/723rd))
 
 **Data:** observational survey data from \~3000 students; Repeated-measures experimental data from \~450 students; Qualitative focus group interviews from 24 students
 
@@ -75,21 +77,15 @@ Feel free to view/download my [academic CV](files/Pelakh_CV.pdf) or [resume](fil
 ## Education
 
 ::: about_section
-
 ### PhD, University of Pittsburgh, Cognitive Psychology (Expected 2026)
+
 #### Minor in Quantitative Methodology
-
 :::
 
 ::: about_section
-
 ### MS, University of Pittsburgh, Cognitive Psychology (2023)
-
 :::
 
 ::: about_section
-
 ### BS, Montana State University, Psychology (2020)
-
 :::
-

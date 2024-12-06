@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 82cb883f-d256-49ac-a18a-36bd31759bd8
+      url: 'https://apelakh.netlify.app'

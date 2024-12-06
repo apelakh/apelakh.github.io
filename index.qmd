@@ -12,11 +12,11 @@ about:
       target: _blank
     - icon: download
       text: Resume
-      href: 'files/Pelakh_Avital_Resume.pdf'
+      href: 'files/Pelakh_Resume.pdf'
       target: _blank
     - icon: download
       text: CV
-      href: 'files/Pelakh_Avital_CV.pdf'
+      href: 'files/Pelakh_CV.pdf'
       target: _blank
     - icon: linkedin
       text: LinkedIn
@@ -29,6 +29,6 @@ I am currently completing a Ph.D. in Cognitive Psychology at the University of P
 
 I have a passion for working with data and possess strong skills in statistical analysis, data visualization, and survey programming and design. I also have experience with qualitative and mixed methods research.
 
-In addition to my experience with research and analysis, I have a background in media production and graphic design which makes me especially well suited for creating effective science communication.
+In addition to my experience with research and analysis, I have a background in media production and graphic design which makes me especially well suited for creating effective science communication. 
 :::
 

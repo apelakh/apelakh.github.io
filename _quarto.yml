@@ -1,9 +1,10 @@
 project:
   type: website
   resources: 
-    - files/Pelakh_Avital_CV.pdf
-    - files/Pelakh_Avital_Resume.pdf
+    - files/Pelakh_CV.pdf
+    - files/Pelakh_Resume.pdf
     - google7e007262b1cf74ea.html
+    - _extensions
   preview: 
     browser: true
     port: 4000

@@ -1,4 +1,7 @@
 ---
 title: "Projects" 
-listing: true
+listing: 
+  type: default
+  contents: posts
+  sort: date desc
 ---

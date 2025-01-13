@@ -2,9 +2,10 @@
   {
     "listing": "/projects/index.html",
     "items": [
-      "/projects/shiny_app/index.html",
-      "/projects/interpreting_experiments/index.html",
-      "/projects/physics_categorization/index.html"
+      "/projects/posts/garmin_activities/index.html",
+      "/projects/posts/interpreting_experiments/index.html",
+      "/projects/posts/college_scorecard/index.html",
+      "/projects/posts/physics_categorization/index.html"
     ]
   }
 ]

@@ -19,7 +19,7 @@ website:
   favicon: img/icon.png
   twitter-card: true
   page-footer: |
-    This site was created using Quarto in RStudio | View the source code on [GitHub](https://github.com/apelakh/apelakh.github.io)<br>
+    This site was created using Quarto v1.5.57 | source code: [{{< fa brands github >}}](https://github.com/apelakh/apelakh.github.io)<br>
     <i class="bi bi-c-circle"></i> Avital Pelakh 2024 | Contact me at <apelakh@gmail.com>
   navbar:
     pinned: true
@@ -32,6 +32,9 @@ website:
       - icon: boxes
         text: Projects
         href: projects
+      - icon: newspaper
+        href: publications.qmd
+        text: Publications & Presentations
 
 format:
   html:

@@ -1,1 +1,83 @@
-# Publications
+---
+title: "Publications and Presentations"
+---
+
+## Journal publications (peer reviewed)
+
+::: references
+Galla, B., Karanam, A., Pelakh, A., & Goldberg, S. B. (2024) Adolescents do not benefit from universal school-based mindfulness interventions: a reanalysis of Dunning et al. (2022). *Frontiers in Psychology*, [**https://doi.org/10.3389/fpsyg.2024.1384531**](https://doi.org/10.3389/fpsyg.2024.1384531)
+
+Kalinowski, S. T., & **Pelakh, A.** (2023). A hypothetico-deductive theory of science and learning. *Journal of Research in Science Teaching*, 1-27.  [**https://doi.org/10.1002/tea.21892**](https://doi.org/10.1002/tea.21892)
+:::
+
+## Manuscripts in preparation or under review
+
+::: references
+**Pelakh, A.**, Singh, C., Rottman, B., Nokes-Malach, T. (in prep). *Unifying two threads of research on physics problem solving through their relation to a cognitive theory of insight.*
+
+Benson-Greenwald, T. M., **Pelakh, A.**, Tumminia, M.J., Jahanian, S., Diamond, M.S., Kuo, E., Good, M. Nokes-Malach, T.J. & Galla, B.M.  (under revision). *Building courage, strength, and knowledge: Mindfulness training reduces psychological threat in introductory physics courses.*
+
+**Pelakh, A.,** Good, M. L., Kuo, E., Tumminia, M. J., Jahanian, S., Nokes-Malach, T., Galla, B. (in prep). *Psychological threat and problem solving in physics: Relations and effects of mindfulness training as an intervention.*
+
+**Pelakh, A.,** Good, M. L., Kuo, E., Tumminia, M. J., Jamal-Orozco, N., Adelman, A., Nokes-Malach, T., Galla, B. (in prep). *Thematic analysis of student perceptions of resources and demands experienced in introductory physics.*
+:::
+
+## Conference presentations (External)
+
+\*Postbaccalaureate advisee
+
+::: references
+\*Langley, T., **Pelakh, A.**, Benson-Greenwald, T. M., Tumminia, M. J., Jahanian, S., Kuo, E., Galla, B. M., Nokes-Malach, T. (2023, November). *Does Mindfulness Promote Student Beliefs About Transfer?* Poster presented at the Annual Meeting of the Psychonomic Society, San Franscisco, CA.
+
+Benson-Greenwald, T. M., Galla, B., Nokes-Malach, T., Kuo, E., Good, M., Tumminia, M., **Pelakh, A.**, & Jahanian, S. (2023, April). *Engaging mindfully: Mindfulness training promotes psychological engagement in physics.* Oral presentation given at the 94^th^ Annual Meeting of the Midwestern Psychological Association, Chicago, IL.
+
+Galla, B. M., Tumminia, M. J., **Pelakh, A.**, Jahanian, S., Good, M. Kuo, E., Nokes-Malach, T. (2023, February). *Can mindfulness training support college students’ stress management, mental health, and engagement?* Poster presented at the annual conference of the International Society for Contemplative Research (ISCR), San Diego, CA.
+
+**Pelakh, A.,** Good, M. L., Kuo, E., Tumminia, M. J., Jahanian, S., Nokes-Malach, T., Galla, B. (2022, November 19). *Testing associations between mindfulness training, psychological threat, and perceptions of confidence, difficulty, and anxiety during problem solving*. Talk presented at the 63^rd^ Annual Meeting of the Psychonomic Society, Boston, MA.
+
+Good, M.L., **Pelakh, A.,** Galla, B., Nokes-Malach, T., Tumminia, M. J., Hinshaw, K., Jahanian, S., Kuo, E. (2022, July 13-14). *Psychological Threat and Demands in an Introductory Physics Class.* Poster presented at the Physics Education Research Conference, Grand Rapids, MI.
+
+**Pelakh, A.**, Good, M. L., Kuo, E., Tumminia, M. J., Jahanian, S., Nokes-Malach, T., Galla, B. (2022, April 4-5). *Examining associations between stress appraisals, problem categorization, and solution times in undergraduate physics students*. Poster presented at the Center for Integrative Research on Cognition, Learning, and Education Conference, St. Louis, MO.
+
+**Pelakh, A.**, Good, M. L., Kuo, E., Nokes-Malach, T., Tumminia, M. J., Jamal-Orozco, N., Diamond, M. S., Adelman, A., Galla, B. (2021, July 26-29). *The relationship between intelligence mindset and test anxiety as mediated by effort regulation.* Poster presented at the 43^rd^ Annual Meeting of the Cognitive Science Society.
+
+**Pelakh, A.**, Kalinowski, S. T., & Hutchison, K. A. (2020, March). *Heuristics and Biases in Scientific Reasoning*. Poster accepted at the Rocky Mountain Psychological Association Annual Convention, Denver, CO. (Conference canceled)
+
+McNamee, M., Brito, J., **Pelakh, A.**, Gameon, J. A., & Skewes, M. C. (2020, March). *Associations between historical trauma, quality of life, and substance use among American Indians in rural Montana.* Poster accepted at the National Conference on Undergraduate Research Conference, Bozeman, MT. (Conference canceled)
+
+**Pelakh, A.**, Kalinowski, S. T., & Hutchison, K. A. (2020, March). *Heuristics and biases in scientific reasoning*. Poster accepted at the National Conference on Undergraduate Research, Bozeman, MT. (Conference canceled)
+:::
+
+## Conference presentations (Internal)
+
+\*Undergraduate advisee
+
+::: references
+**Pelakh, A.** (2024, October). *A case study in experiment refinement: Identifying effects of mindfulness training on motivation and engagement in introductory physics*. Talk presented at the Cognitive Talks Series, Department of Psychology, University of Pittsburgh.
+
+**Pelakh, A.** (2024, March). *Creating dynamic data visualizations with Shiny in R*. Talk presented at the CAMeL (Community for Advanced Methodological Learning) Talks Series, Department of Psychology, University of Pittsburgh.
+
+**Pelakh, A.** (2024, January). *A mixed-methods analysis of student experiences in introductory physics*. Talk presented at the Cognitive Talks Series, Department of Psychology, University of Pittsburgh.
+
+**Pelakh, A.**, Good, M., Kuo, E., Tumminia, M. J., Jahanian, S., Nokes-Malach, T., & Galla, B. (2023, November). *Investigating the relations between mindfulness training, psychological threat, and physics problem solving*. Poster presented at the Learning Research and Development Center Board of Visitors, Pittsburgh, PA.
+
+**Pelakh, A.** (2023, March). *Does mindfulness training affect students’ perceptions during problem solving? Results from a randomized controlled trial among undergraduate physics students reporting psychological threat*. Talk presented at the Cognitive Talks Series, Department of Psychology, University of Pittsburgh.
+
+**Pelakh, A.** (2022, March). *Examining associations between stress appraisals, problem categorization, and solution times in undergraduate physics students*. Talk presented at the Cognitive Talks Series, Department of Psychology, University of Pittsburgh.
+
+\*Zewail, A., **Pelakh, A.** (2021, August). *The role of psychological framing and effort in physics courses*. Poster presented at the Learning Research and Development Center Summer Undergraduate Internship Poster Session, Pittsburgh, PA.
+
+**Pelakh, A.** (2021, April). *Slow down, you’re moving too fast: Psychological threat, mindfulness, and problem solving behaviors in physics.* Talk presented at the Cognitive Talks Series, Department of Psychology, University of Pittsburgh.
+
+**Pelakh, A.**, Kalinowski, S.T., & Hutchison, K.A. (2019, December). *Heuristics and biases in scientific reasoning*. Poster presented at the Montana State University Student Research Celebration, Bozeman, MT.
+:::
+
+## Invited professional development panels and talks
+
+::: references
+**Pelakh, A.** (2024, July). *Introductory statistics workshop.* Talk presented at the Learning Research and Development Center Summer Internship Program. University of Pittsburgh, Pittsburgh, PA.
+
+**Pelakh, A.** (2023, July). *Introductory statistics workshop.* Talk presented at the Learning Research and Development Center Summer Internship Program. University of Pittsburgh, Pittsburgh, PA.
+
+**Pelakh, A.** (2022, July). *Correlations and linear regression models.* Talk presented at the Learning Research and Development Center Summer Internship Program. University of Pittsburgh, Pittsburgh, PA.
+:::

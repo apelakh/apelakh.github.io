@@ -24,6 +24,8 @@ about:
       href: 'https://www.linkedin.com/in/avital-pelakh-a68069168/'
 ---
 
+
+
 ::: {#hero-heading}
 I am currently completing a Ph.D. in Cognitive Psychology at the University of Pittsburgh's [Learning Research and Development Center](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=2115) with a minor in [Quantitative Methodology](https://www.psychology.pitt.edu/graduate/additional-training-options/minor-quantitative-methodology). My research interests are focused on reasoning, problem solving, and motivation in the context of STEM learning.
 

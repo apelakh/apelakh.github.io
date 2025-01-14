@@ -8,7 +8,7 @@ Research areas/Expertise: learning; reasoning; problem solving; motivation
 
 Feel free to view/download my [academic CV](files/Pelakh_CV.pdf) or [resume](files/Pelakh_Resume.pdf), or email me at [apelakh\@gmail.com](mailto:apelakh@gmail.com){.email} to learn more.
 
-## Skills
+## {{< fa code >}} Skills
 
 (\*\*advanced, \*proficient)
 
@@ -28,7 +28,7 @@ Feel free to view/download my [academic CV](files/Pelakh_CV.pdf) or [resume](fil
 :::
 
 ::: g-col-6
-### Methodology
+###  Methodology
 
 -   Experimental design; AB Testing
 -   Survey design
@@ -40,7 +40,7 @@ Feel free to view/download my [academic CV](files/Pelakh_CV.pdf) or [resume](fil
 :::
 :::::
 
-## Experience
+## {{< fa briefcase >}} Experience
 
 :::: about_section
 ### Graduate Student Researcher, Learning Research and Development Center (2020 - Present)
@@ -74,7 +74,7 @@ Feel free to view/download my [academic CV](files/Pelakh_CV.pdf) or [resume](fil
 :::
 ::::
 
-## Education
+## {{< fa graduation-cap >}} Education
 
 ::: about_section
 ### PhD, University of Pittsburgh, Cognitive Psychology (Expected 2026)

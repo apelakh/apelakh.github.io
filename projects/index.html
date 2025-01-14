@@ -41,6 +41,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -78,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -170,6 +172,11 @@ window.Quarto = {
 </i> 
 <span class="menu-text">Projects</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../publications.html"> <i class="bi bi-newspaper" role="img">
+</i> 
+<span class="menu-text">Publications &amp; Presentations</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -181,9 +188,9 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Bayesian Analysis">Bayesian Analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Data Analysis">Data Analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Data Visualization">Data Visualization <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Education">Education <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Jupyter Notebook">Jupyter Notebook <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Learning">Learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Mixed Effects Models">Mixed Effects Models <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Programming">Programming <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Qualtrics">Qualtrics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Shiny">Shiny <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -225,6 +232,20 @@ window.Quarto = {
 <div class="listing-subtitle">
 <a href="../projects/posts/garmin_activities/index.html" class="no-external"></a>
 </div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Shiny'); return false;">
+Shiny
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+R
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Programming'); return false;">
+Programming
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Data Visualization'); return false;">
+Data Visualization
+</div>
+</div>
 <div class="listing-description">
 <a href="../projects/posts/garmin_activities/index.html" class="no-external">A Shiny app created with personal data for Tidy Tuesday.</a>
 </div>
@@ -252,6 +273,20 @@ Avital Pelakh
 </h3>
 <div class="listing-subtitle">
 <a href="../projects/posts/interpreting_experiments/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Qualtrics'); return false;">
+Qualtrics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Learning'); return false;">
+Learning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Education'); return false;">
+Education
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Programming'); return false;">
+Programming
+</div>
 </div>
 <div class="listing-description">
 <a href="../projects/posts/interpreting_experiments/index.html" class="no-external">An interactive lesson on designing and interpreting scientific experiments. This lesson was created as part of a course at Carnegie Melon University using Qualtrics.</a>
@@ -281,6 +316,20 @@ Avital Pelakh
 <div class="listing-subtitle">
 <a href="../projects/posts/college_scorecard/index.html" class="no-external"></a>
 </div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Shiny'); return false;">
+Shiny
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+R
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Programming'); return false;">
+Programming
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Data Visualization'); return false;">
+Data Visualization
+</div>
+</div>
 <div class="listing-description">
 <a href="../projects/posts/college_scorecard/index.html" class="no-external">A Shiny app that allows the user to explore a large data set compiled by the U.S. Department of Education.</a>
 </div>
@@ -308,6 +357,26 @@ Avital Pelakh
 </h3>
 <div class="listing-subtitle">
 <a href="../projects/posts/physics_categorization/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Jupyter Notebook'); return false;">
+Jupyter Notebook
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+R
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Bayesian Analysis'); return false;">
+Bayesian Analysis
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Mixed Effects Models'); return false;">
+Mixed Effects Models
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Data Analysis'); return false;">
+Data Analysis
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Data Visualization'); return false;">
+Data Visualization
+</div>
 </div>
 <div class="listing-description">
 <a href="../projects/posts/physics_categorization/index.html" class="no-external">Final project for Data Science course at Carnegie Mellon in Spring 2022.</a>
@@ -761,7 +830,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>This site was created using Quarto in RStudio | View the source code on <a href="https://github.com/apelakh/apelakh.github.io">GitHub</a><br> <i class="bi bi-c-circle"></i> Avital Pelakh 2024 | Contact me at <a href="mailto:apelakh@gmail.com" class="email">apelakh@gmail.com</a></p>
+<p>This site was created using Quarto v1.5.57 | source code: <a href="https://github.com/apelakh/apelakh.github.io"><i class="fa-brands fa-github" aria-label="github"></i></a><br> <i class="bi bi-c-circle"></i> Avital Pelakh 2024 | Contact me at <a href="mailto:apelakh@gmail.com" class="email">apelakh@gmail.com</a></p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

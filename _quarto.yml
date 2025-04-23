@@ -5,11 +5,16 @@ project:
     - files/Pelakh_Resume.pdf
     - google7e007262b1cf74ea.html
     - _extensions
+    - files
+    - img
+    - styles.css
+    - projects/posts
   preview: 
     browser: true
     port: 4000
   output-dir: _site
   render:
+    - "*.md"
     - "*.qmd"
     - "!README.md"
     

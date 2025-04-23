@@ -27,7 +27,7 @@ about:
 
 
 ::: {#hero-heading}
-I am currently completing a Ph.D. in Cognitive Psychology at the University of Pittsburgh's [Learning Research and Development Center](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=2115) with a minor in [Quantitative Methodology](https://www.psychology.pitt.edu/graduate/additional-training-options/minor-quantitative-methodology). My research interests are focused on reasoning, problem solving, and motivation in the context of STEM learning.
+I am a Ph.D. candidate studying Cognitive Psychology at the University of Pittsburgh's [Learning Research and Development Center](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=2115) with a minor in [Quantitative Methodology](https://www.psychology.pitt.edu/graduate/additional-training-options/minor-quantitative-methodology). My research interests are focused on reasoning, problem solving, and motivation in the context of STEM learning.
 
 I have a passion for working with data and possess strong skills in statistical analysis, data visualization, and survey programming and design. I also have experience with qualitative and mixed methods research.
 

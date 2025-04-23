@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://apelakh.github.io/about.html</loc>
-    <lastmod>2025-01-13T22:28:23.401Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apelakh.github.io/index.html</loc>
-    <lastmod>2025-01-13T22:20:15.920Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apelakh.github.io/projects/posts/garmin_activities/index.html</loc>
-    <lastmod>2025-01-13T19:43:53.985Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apelakh.github.io/projects/posts/interpreting_experiments/index.html</loc>
-    <lastmod>2024-11-27T18:59:48.352Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apelakh.github.io/projects/posts/physics_categorization/index.html</loc>
-    <lastmod>2024-11-27T18:59:48.366Z</lastmod>
-  </url>
-  <url>
-    <loc>https://apelakh.github.io/projects/posts/college_scorecard/index.html</loc>
-    <lastmod>2024-11-27T18:59:48.375Z</lastmod>
+    <loc>https://apelakh.github.io/publications.html</loc>
+    <lastmod>2025-01-14T22:01:15.861Z</lastmod>
   </url>
   <url>
     <loc>https://apelakh.github.io/projects/index.html</loc>
     <lastmod>2025-01-14T00:29:06.897Z</lastmod>
   </url>
   <url>
-    <loc>https://apelakh.github.io/publications.html</loc>
-    <lastmod>2025-01-14T22:01:15.861Z</lastmod>
+    <loc>https://apelakh.github.io/about.html</loc>
+    <lastmod>2025-01-13T22:28:23.401Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apelakh.github.io/projects/posts/interpreting_experiments/index.html</loc>
+    <lastmod>2024-11-27T18:59:48.352Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apelakh.github.io/projects/posts/college_scorecard/index.html</loc>
+    <lastmod>2024-11-27T18:59:48.375Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apelakh.github.io/projects/posts/garmin_activities/index.html</loc>
+    <lastmod>2025-01-13T19:43:53.985Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apelakh.github.io/projects/posts/research_dashboard/index.html</loc>
+    <lastmod>2025-04-23T16:51:02.016Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apelakh.github.io/index.html</loc>
+    <lastmod>2025-04-23T16:05:05.426Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apelakh.github.io/projects/posts/physics_categorization/index.html</loc>
+    <lastmod>2024-11-27T18:59:48.366Z</lastmod>
   </url>
 </urlset>

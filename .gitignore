@@ -1,3 +1,24 @@
-/.quarto/
-/_site/
+# R specific
 .Rproj.user
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+
+# Environment variables
+.Renviron
+.env
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Quarto specific
+/.quarto/
+_site/
+.luarc.json
+*.html.map
+
+# Temporary files
+*.tmp
+*.temp

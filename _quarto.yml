@@ -8,6 +8,11 @@ project:
   preview: 
     browser: true
     port: 4000
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!README.md"
+    
 
 website:
   title: "Avital Pelakh"

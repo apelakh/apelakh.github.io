@@ -13,9 +13,17 @@ a:hover {
     color: indianred !important;
 }
 
+h2 {
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: .5rem;
+    font-weight: 500;
+    font-size: 1.4rem;
+    color: var(--bs-light-text-emphasis);
+}
+
 h3 {
   font-weight: 500;
-  font-size: 1.1em;
+  font-size: 1.1rem;
 }
 
 h4 {

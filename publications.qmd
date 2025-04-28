@@ -5,21 +5,22 @@ title: "Publications and Presentations"
 ## Journal publications (peer reviewed)
 
 ::: references
-Galla, B., Karanam, A., Pelakh, A., & Goldberg, S. B. (2024) Adolescents do not benefit from universal school-based mindfulness interventions: a reanalysis of Dunning et al. (2022). *Frontiers in Psychology*, [**https://doi.org/10.3389/fpsyg.2024.1384531**](https://doi.org/10.3389/fpsyg.2024.1384531)
+Galla, B., Karanam, A., **Pelakh, A.**, & Goldberg, S. B. (2024) Adolescents do not benefit from universal school-based mindfulness interventions: a reanalysis of Dunning et al. (2022). *Frontiers in Psychology*, [**https://doi.org/10.3389/fpsyg.2024.1384531**](https://doi.org/10.3389/fpsyg.2024.1384531)
 
-Kalinowski, S. T., & **Pelakh, A.** (2023). A hypothetico-deductive theory of science and learning. *Journal of Research in Science Teaching*, 1-27.  [**https://doi.org/10.1002/tea.21892**](https://doi.org/10.1002/tea.21892)
+\*Kalinowski, S. T., & **Pelakh, A.** (2023). A hypothetico-deductive theory of science and learning. *Journal of Research in Science Teaching*, 1-27. [**https://doi.org/10.1002/tea.21892**](https://doi.org/10.1002/tea.21892)
+\* Wiley top-viewed article in 2023
 :::
 
 ## Manuscripts in preparation or under review
 
 ::: references
+**Pelakh, A.,** Good, M. L., Kuo, E., Tumminia, M., Jamal-Orozco, N., Adelman, A., Antoan, Jordann, Galla, Brian, & Nokes-Malach, T. J. (under review at *Physical Review – Physics Education Research*). *Thematic analysis of student perceptions of resources and demands experienced in introductory physics*. arXiv. <https://doi.org/10.48550/arXiv.2502.14692>
+
+Benson-Greenwald, T. M., **Pelakh, A.**, Tumminia, M.J., Jahanian, S., Diamond, M.S., Kuo, E., Good, M. Nokes-Malach, T.J. & Galla, B.M. (under revision). *Building courage, strength, and knowledge: Mindfulness training reduces psychological threat in introductory physics courses.* PsyArXiv*.* <https://doi.org/10.31234/osf.io/uq3v7>
+
 **Pelakh, A.**, Singh, C., Rottman, B., Nokes-Malach, T. (in prep). *Unifying two threads of research on physics problem solving through their relation to a cognitive theory of insight.*
 
-Benson-Greenwald, T. M., **Pelakh, A.**, Tumminia, M.J., Jahanian, S., Diamond, M.S., Kuo, E., Good, M. Nokes-Malach, T.J. & Galla, B.M.  (under revision). *Building courage, strength, and knowledge: Mindfulness training reduces psychological threat in introductory physics courses.*
-
 **Pelakh, A.,** Good, M. L., Kuo, E., Tumminia, M. J., Jahanian, S., Nokes-Malach, T., Galla, B. (in prep). *Psychological threat and problem solving in physics: Relations and effects of mindfulness training as an intervention.*
-
-**Pelakh, A.,** Good, M. L., Kuo, E., Tumminia, M. J., Jamal-Orozco, N., Adelman, A., Nokes-Malach, T., Galla, B. (in prep). *Thematic analysis of student perceptions of resources and demands experienced in introductory physics.*
 :::
 
 ## Conference presentations (External)
@@ -41,11 +42,11 @@ Good, M.L., **Pelakh, A.,** Galla, B., Nokes-Malach, T., Tumminia, M. J., Hinsha
 
 **Pelakh, A.**, Good, M. L., Kuo, E., Nokes-Malach, T., Tumminia, M. J., Jamal-Orozco, N., Diamond, M. S., Adelman, A., Galla, B. (2021, July 26-29). *The relationship between intelligence mindset and test anxiety as mediated by effort regulation.* Poster presented at the 43^rd^ Annual Meeting of the Cognitive Science Society.
 
-**Pelakh, A.**, Kalinowski, S. T., & Hutchison, K. A. (2020, March). *Heuristics and Biases in Scientific Reasoning*. Poster accepted at the Rocky Mountain Psychological Association Annual Convention, Denver, CO. (Conference canceled)
+**Pelakh, A.**, Kalinowski, S. T., & Hutchison, K. A. (2020, March). *Heuristics and Biases in Scientific Reasoning*. Poster accepted at the Rocky Mountain Psychological Association Annual Convention, Denver, CO. (Conference canceled)
 
-McNamee, M., Brito, J., **Pelakh, A.**, Gameon, J. A., & Skewes, M. C. (2020, March). *Associations between historical trauma, quality of life, and substance use among American Indians in rural Montana.* Poster accepted at the National Conference on Undergraduate Research Conference, Bozeman, MT. (Conference canceled)
+McNamee, M., Brito, J., **Pelakh, A.**, Gameon, J. A., & Skewes, M. C. (2020, March). *Associations between historical trauma, quality of life, and substance use among American Indians in rural Montana.* Poster accepted at the National Conference on Undergraduate Research Conference, Bozeman, MT. (Conference canceled)
 
-**Pelakh, A.**, Kalinowski, S. T., & Hutchison, K. A. (2020, March). *Heuristics and biases in scientific reasoning*. Poster accepted at the National Conference on Undergraduate Research, Bozeman, MT. (Conference canceled)
+**Pelakh, A.**, Kalinowski, S. T., & Hutchison, K. A. (2020, March). *Heuristics and biases in scientific reasoning*. Poster accepted at the National Conference on Undergraduate Research, Bozeman, MT. (Conference canceled)
 :::
 
 ## Conference presentations (Internal)
@@ -69,7 +70,7 @@ McNamee, M., Brito, J., **Pelakh, A.**, Gameon, J. A., & Skewes, M. C. (2020, Ma
 
 **Pelakh, A.** (2021, April). *Slow down, you’re moving too fast: Psychological threat, mindfulness, and problem solving behaviors in physics.* Talk presented at the Cognitive Talks Series, Department of Psychology, University of Pittsburgh.
 
-**Pelakh, A.**, Kalinowski, S.T., & Hutchison, K.A. (2019, December). *Heuristics and biases in scientific reasoning*. Poster presented at the Montana State University Student Research Celebration, Bozeman, MT.
+**Pelakh, A.**, Kalinowski, S.T., & Hutchison, K.A. (2019, December). *Heuristics and biases in scientific reasoning*. Poster presented at the Montana State University Student Research Celebration, Bozeman, MT.
 :::
 
 ## Invited professional development panels and talks

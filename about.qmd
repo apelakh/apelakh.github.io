@@ -20,7 +20,7 @@ Feel free to view/download my [academic CV](files/Pelakh_CV.pdf) or [resume](fil
 -   Python\*
 -   Qualtrics\*\*
 -   HTML/CSS\*
--   Databases/SQL\*
+-   Databases/SQL (MySQL Workbench, MongoDB, Neo4j)\*
 -   JavaScript\*
 -   GitHub\*
 -   SPSS\*
@@ -28,10 +28,11 @@ Feel free to view/download my [academic CV](files/Pelakh_CV.pdf) or [resume](fil
 :::
 
 ::: g-col-6
-###  Methodology
+### Methodology
 
 -   Experimental design; AB Testing
 -   Survey design
+-   Database design; organization\
 -   Data cleaning; manipulation
 -   Data visualization; dashboards
 -   Statistical modeling
@@ -89,3 +90,15 @@ Feel free to view/download my [academic CV](files/Pelakh_CV.pdf) or [resume](fil
 ::: about_section
 ### BS, Montana State University, Psychology (2020)
 :::
+
+## {{< fa award >}} Honors and Awards
+
+-   Andrew W. Mellon Predoctoral Fellowship – 2025-2026, University of Pittsburgh
+-   Dietrich School of Arts and Sciences Graduate Fellowship – 2020-2021, University of Pittsburgh
+-   Undergraduate Scholars Program Award Recipient – Fall 2019, Montana State University
+-   Psi Chi International Honor Society in Psychology – October 2019
+-   Lea Miller Memorial Psychology Scholarship – 2019-2020, Montana State University
+-   Robin Mason Memorial Scholarship – 2019-2020, Montana State University
+-   The Honor Society of Phi Kappa Phi – January 2019
+
+![](img/certificate.jpg){style="width: 400px; border:solid 1px;" fig-alt="Wiley top-viewed paper certificate"}

@@ -5,9 +5,9 @@ title: "Publications and Presentations"
 ## Journal publications (peer reviewed)
 
 ::: references
-Galla, B., Karanam, A., **Pelakh, A.**, & Goldberg, S. B. (2024) Adolescents do not benefit from universal school-based mindfulness interventions: a reanalysis of Dunning et al. (2022). *Frontiers in Psychology*, [**https://doi.org/10.3389/fpsyg.2024.1384531**](https://doi.org/10.3389/fpsyg.2024.1384531)
+Galla, B., Karanam, A., **Pelakh, A.**, & Goldberg, S. B. (2024) Adolescents do not benefit from universal school-based mindfulness interventions: a reanalysis of Dunning et al. (2022). *Frontiers in Psychology*, <https://doi.org/10.3389/fpsyg.2024.1384531>
 
-\*Kalinowski, S. T., & **Pelakh, A.** (2023). A hypothetico-deductive theory of science and learning. *Journal of Research in Science Teaching*, 1-27. [**https://doi.org/10.1002/tea.21892**](https://doi.org/10.1002/tea.21892)
+\*Kalinowski, S. T., & **Pelakh, A.** (2023). A hypothetico-deductive theory of science and learning. *Journal of Research in Science Teaching*, 1-27. <https://doi.org/10.1002/tea.21892>
 \* Wiley top-viewed article in 2023
 :::
 
@@ -56,6 +56,8 @@ McNamee, M., Brito, J., **Pelakh, A.**, Gameon, J. A., & Skewes, M. C. (2020, Ma
 \*Undergraduate advisee
 
 ::: references
+**Pelakh, A.** (2025, October). *Testing the Impact of Mindfulness Training on Students’ Problem-Solving Experiences in Physics*. Talk presented at the Cognitive Talks Series, Department of Psychology, University of Pittsburgh.
+
 **Pelakh, A.** (2024, October). *A case study in experiment refinement: Identifying effects of mindfulness training on motivation and engagement in introductory physics*. Talk presented at the Cognitive Talks Series, Department of Psychology, University of Pittsburgh.
 
 **Pelakh, A.** (2024, March). *Creating dynamic data visualizations with Shiny in R*. Talk presented at the CAMeL (Community for Advanced Methodological Learning) Talks Series, Department of Psychology, University of Pittsburgh.
@@ -78,9 +80,9 @@ McNamee, M., Brito, J., **Pelakh, A.**, Gameon, J. A., & Skewes, M. C. (2020, Ma
 ## Invited professional development panels and talks
 
 ::: references
-**Pelakh, A.** (2024, July). *Introductory statistics workshop.* Talk presented at the Learning Research and Development Center Summer Internship Program. University of Pittsburgh, Pittsburgh, PA.
+**Pelakh, A.** (2025, October). *Mindful Physics.* Talk presented at the Physics Student Support Sessions. Department of Physics and Astronomy, University of Pittsburgh, Pittsburgh, PA.
 
-**Pelakh, A.** (2023, July). *Introductory statistics workshop.* Talk presented at the Learning Research and Development Center Summer Internship Program. University of Pittsburgh, Pittsburgh, PA.
+**Pelakh, A.** (2023, 2024, 2025, July). *Introductory statistics workshop.* Talk presented at the Learning Research and Development Center Summer Internship Program. University of Pittsburgh, Pittsburgh, PA.
 
 **Pelakh, A.** (2022, July). *Correlations and linear regression models.* Talk presented at the Learning Research and Development Center Summer Internship Program. University of Pittsburgh, Pittsburgh, PA.
 :::

@@ -66,4 +66,6 @@ ul {
   text-indent: -1.5em;
 }
 
-
+.drop-shadow {
+  filter: drop-shadow(3px 3px 5px #333);
+}

@@ -18,7 +18,7 @@
     "href": "publications.html#manuscripts-in-preparation-or-under-review",
     "title": "Publications and Presentations",
     "section": "Manuscripts in preparation or under review",
-    "text": "Manuscripts in preparation or under review\n\nPelakh, A., Good, M. L., Kuo, E., Tumminia, M., Jamal-Orozco, N., Adelman, A., Antoan, Jordann, Galla, Brian, & Nokes-Malach, T. J. (under review at Physical Review – Physics Education Research). Thematic analysis of student perceptions of resources and demands experienced in introductory physics. arXiv. https://doi.org/10.48550/arXiv.2502.14692\nBenson-Greenwald, T. M., Pelakh, A., Tumminia, M.J., Jahanian, S., Diamond, M.S., Kuo, E., Good, M. Nokes-Malach, T.J. & Galla, B.M. (under revision). Building courage, strength, and knowledge: Mindfulness training reduces psychological threat in introductory physics courses. PsyArXiv. https://doi.org/10.31234/osf.io/uq3v7\nPelakh, A., Singh, C., Rottman, B., Nokes-Malach, T. (in prep). Unifying two threads of research on physics problem solving through their relation to a cognitive theory of insight.\nPelakh, A., Good, M. L., Kuo, E., Tumminia, M. J., Jahanian, S., Nokes-Malach, T., Galla, B. (in prep). Psychological threat and problem solving in physics: Relations and effects of mindfulness training as an intervention."
+    "text": "Manuscripts in preparation or under review\n\nPelakh, A., Good, M. L., Kuo, E., Tumminia, M. J., Jahanian, S., Nokes-Malach, T., Galla, B. (in prep). The impact of brief mindfulness training on judgments of confidence, anxiety, and difficulty while answering physics questions. PsyArXiv. https://doi.org/10.31234/osf.io/sqpd5_v1\nPelakh, A., Good, M. L., Kuo, E., Tumminia, M., Jamal-Orozco, N., Adelman, A., Antoan, Jordann, Galla, Brian, & Nokes-Malach, T. J. (under review at Physical Review – Physics Education Research). Thematic analysis of student perceptions of resources and demands experienced in introductory physics. arXiv. https://doi.org/10.48550/arXiv.2502.14692\nBenson-Greenwald, T. M., Pelakh, A., Tumminia, M.J., Jahanian, S., Diamond, M.S., Kuo, E., Good, M. Nokes-Malach, T.J. & Galla, B.M. (under revision). Building courage, strength, and knowledge: Mindfulness training reduces psychological threat in introductory physics courses. PsyArXiv. https://doi.org/10.31234/osf.io/uq3v7\nPelakh, A., Singh, C., Rottman, B., Nokes-Malach, T. (in prep). Unifying two threads of research on physics problem solving through their relation to a cognitive theory of insight."
   },
   {
     "objectID": "publications.html#conference-presentations-external",
@@ -46,7 +46,7 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Longitudinal Research Dashboard\n\n\n\nDocker\n\nSQL\n\nRelational Databases\n\nShiny\n\nR\n\nProgramming\n\nData Visualization\n\n\n\nA database driven Shiny app for managing longitudinal research data.\n\n\n\n\n\nApr 24, 2025\n\n\nAvital Pelakh\n\n\n\n\n\n\n\n\n\n\n\n\nGarmin Running Activities\n\n\n\nShiny\n\nR\n\nProgramming\n\nData Visualization\n\n\n\nA Shiny app created with personal data for Tidy Tuesday.\n\n\n\n\n\nJan 12, 2025\n\n\nAvital Pelakh\n\n\n\n\n\n\n\n\n\n\n\n\nCollege ScoreCard Explorer\n\n\n\nShiny\n\nR\n\nProgramming\n\nData Visualization\n\n\n\nA Shiny app that allows the user to explore a large data set compiled by the U.S. Department of Education.\n\n\n\n\n\nJan 17, 2024\n\n\nAvital Pelakh\n\n\n\n\n\n\n\n\n\n\n\n\nInterpreting Experiments\n\n\n\nQualtrics\n\nLearning\n\nEducation\n\nProgramming\n\n\n\nAn interactive lesson on designing and interpreting scientific experiments. This lesson was created as part of a course at Carnegie Melon University using Qualtrics.\n\n\n\n\n\nJan 17, 2024\n\n\nAvital Pelakh\n\n\n\n\n\n\n\n\n\n\n\n\nPhysics Problem Categorization\n\n\n\nJupyter Notebook\n\nR\n\nBayesian Analysis\n\nMixed Effects Models\n\nData Analysis\n\nData Visualization\n\n\n\nFinal project for Data Science course at Carnegie Mellon in Spring 2022.\n\n\n\n\n\nMay 17, 2022\n\n\nAvital Pelakh\n\n\n\n\n\nNo matching items"
+    "text": "Supplemental Materials for Journal Publication (Quarto Book)\n\n\n\nR\n\nProgramming\n\nQuarto\n\nData Analysis\n\nMixed Effects Models\n\nData Visualization\n\n\n\nA Quarto book I created as a supplement for an research manuscript (currently under review). The book contains supplemental text and R code for statistical analyses and visualizations.\n\n\n\n\n\nOct 15, 2025\n\n\nAvital Pelakh\n\n\n\n\n\n\n\n\n\n\n\n\nLongitudinal Research Dashboard\n\n\n\nDocker\n\nSQL\n\nRelational Databases\n\nShiny\n\nR\n\nProgramming\n\nData Visualization\n\n\n\nA database driven Shiny app for managing longitudinal research data.\n\n\n\n\n\nApr 24, 2025\n\n\nAvital Pelakh\n\n\n\n\n\n\n\n\n\n\n\n\nGarmin Running Activities\n\n\n\nShiny\n\nR\n\nProgramming\n\nData Visualization\n\n\n\nA Shiny app created with personal data for Tidy Tuesday.\n\n\n\n\n\nJan 12, 2025\n\n\nAvital Pelakh\n\n\n\n\n\n\n\n\n\n\n\n\nCollege ScoreCard Explorer\n\n\n\nShiny\n\nR\n\nProgramming\n\nData Visualization\n\n\n\nA Shiny app that allows the user to explore a large data set compiled by the U.S. Department of Education.\n\n\n\n\n\nJan 17, 2024\n\n\nAvital Pelakh\n\n\n\n\n\n\n\n\n\n\n\n\nInterpreting Experiments\n\n\n\nQualtrics\n\nLearning\n\nEducation\n\nProgramming\n\n\n\nAn interactive lesson on designing and interpreting scientific experiments. This lesson was created as part of a course at Carnegie Melon University using Qualtrics.\n\n\n\n\n\nJan 17, 2024\n\n\nAvital Pelakh\n\n\n\n\n\n\n\n\n\n\n\n\nPhysics Problem Categorization\n\n\n\nJupyter Notebook\n\nR\n\nBayesian Analysis\n\nMixed Effects Models\n\nData Analysis\n\nData Visualization\n\n\n\nFinal project for Data Science course at Carnegie Mellon in Spring 2022.\n\n\n\n\n\nMay 17, 2022\n\n\nAvital Pelakh\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -84,18 +84,11 @@
     "text": "Honors and Awards\n\nAndrew W. Mellon Predoctoral Fellowship – 2025-2026, University of Pittsburgh\nDietrich School of Arts and Sciences Graduate Fellowship – 2020-2021, University of Pittsburgh\nUndergraduate Scholars Program Award Recipient – Fall 2019, Montana State University\nPsi Chi International Honor Society in Psychology – October 2019\nLea Miller Memorial Psychology Scholarship – 2019-2020, Montana State University\nRobin Mason Memorial Scholarship – 2019-2020, Montana State University\nThe Honor Society of Phi Kappa Phi – January 2019"
   },
   {
-    "objectID": "projects/posts/interpreting_experiments/index.html",
-    "href": "projects/posts/interpreting_experiments/index.html",
-    "title": "Interpreting Experiments",
+    "objectID": "projects/posts/research_dashboard/index.html",
+    "href": "projects/posts/research_dashboard/index.html",
+    "title": "Longitudinal Research Dashboard",
     "section": "",
-    "text": "About\nThis interactive lesson was designed as part of a self-directed final project for E-Learning Design Principles and Methods, a graduate-level course taken during Fall 2023 at Carnegie Melon University with Dr. Ken Koedinger.\nThe activity was designed using the Qualtrics survey platform using custom-written HTML, CSS, and JavaScript. Click here to preview the lesson and provide some feedback!"
-  },
-  {
-    "objectID": "projects/posts/college_scorecard/index.html",
-    "href": "projects/posts/college_scorecard/index.html",
-    "title": "College ScoreCard Explorer",
-    "section": "",
-    "text": "Preview the app\nThis app allows you to extensively explore a large data set containing information about institutions of higher learning in the U.S. and outlying areas, spanning nearly a quarter century.\nAbout the Data With this interface, you will have access to the institution-level data files for all academic years from 2011-12 through 2020-21 (data from 1996-97 to 2010-11 are not included to space limitations). The data are available for download from the U.S. Department of Education. Visit their website for more information or to download the files yourself: https://collegescorecard.ed.gov/data/"
+    "text": "Run the app on a local machine using Docker\nThis app was built as part of a database management course. It is a Shiny application for analyzing longitudinal survey data with database integration. The database schema showcases an organizational framework for storing complex research data (simulated for demonstration purposes). The application provides tools for exploring psychometric properties, visualizing missing data patterns, and managing participant enrollment.\nFollow the instructions in the GitHub repository to download the files and run the app on your local machine using Docker. There are two containers - one for the database and one for the app. Please reach out with any comments or questions!"
   },
   {
     "objectID": "projects/posts/garmin_activities/index.html",
@@ -105,11 +98,25 @@
     "text": "Check out a live version of the app here!\nThis Shiny app was inspired by the Tidy Tuesday prompt for January 7, 2025. All layouts and theming were created with the help of bslib.\nThe data are my personal running activities downloaded from Garmin Connect. Feel free to check out the source code and send me any feedback, questions, or suggestions. I may continue to update the app as I have time!"
   },
   {
-    "objectID": "projects/posts/research_dashboard/index.html",
-    "href": "projects/posts/research_dashboard/index.html",
-    "title": "Longitudinal Research Dashboard",
+    "objectID": "projects/posts/college_scorecard/index.html",
+    "href": "projects/posts/college_scorecard/index.html",
+    "title": "College ScoreCard Explorer",
     "section": "",
-    "text": "Run the app on a local machine using Docker\nThis app was built as part of a database management course. It is a Shiny application for analyzing longitudinal survey data with database integration. The database schema showcases an organizational framework for storing complex research data (simulated for demonstration purposes). The application provides tools for exploring psychometric properties, visualizing missing data patterns, and managing participant enrollment.\nFollow the instructions in the GitHub repository to download the files and run the app on your local machine using Docker. There are two containers - one for the database and one for the app. Please reach out with any comments or questions!"
+    "text": "Preview the app\nThis app allows you to extensively explore a large data set containing information about institutions of higher learning in the U.S. and outlying areas, spanning nearly a quarter century.\nAbout the Data With this interface, you will have access to the institution-level data files for all academic years from 2011-12 through 2020-21 (data from 1996-97 to 2010-11 are not included to space limitations). The data are available for download from the U.S. Department of Education. Visit their website for more information or to download the files yourself: https://collegescorecard.ed.gov/data/"
+  },
+  {
+    "objectID": "projects/posts/interpreting_experiments/index.html",
+    "href": "projects/posts/interpreting_experiments/index.html",
+    "title": "Interpreting Experiments",
+    "section": "",
+    "text": "About\nThis interactive lesson was designed as part of a self-directed final project for E-Learning Design Principles and Methods, a graduate-level course taken during Fall 2023 at Carnegie Melon University with Dr. Ken Koedinger.\nThe activity was designed using the Qualtrics survey platform using custom-written HTML, CSS, and JavaScript. Click here to preview the lesson and provide some feedback!"
+  },
+  {
+    "objectID": "projects/posts/supplement_book/index.html",
+    "href": "projects/posts/supplement_book/index.html",
+    "title": "Supplemental Materials for Journal Publication (Quarto Book)",
+    "section": "",
+    "text": "Check out a live version of the book here! or view the source code on GitHub \nYou can also access a preprint of the manuscript on PsyArxiv: https://doi.org/10.31234/osf.io/sqpd5_v1"
   },
   {
     "objectID": "index.html",

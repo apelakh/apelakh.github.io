@@ -1,0 +1,8 @@
+---
+title: "Projects" 
+listing: 
+  type: default
+  contents: posts
+  sort: date desc
+  categories: true
+---

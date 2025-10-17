@@ -11,6 +11,7 @@
 
 # OS specific
 .DS_Store
+**/.DS_Store
 Thumbs.db
 
 # Quarto specific
@@ -22,3 +23,4 @@ _site/
 # Temporary files
 *.tmp
 *.temp
+*.log

@@ -66,6 +66,10 @@ ul {
   text-indent: -1.5em;
 }
 
+.tippy-box[data-theme~="quarto"] .tippy-content {
+  text-indent: 0;
+}
+
 .drop-shadow {
   filter: drop-shadow(3px 3px 5px #333);
 }
